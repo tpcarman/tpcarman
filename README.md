@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## G'day, I'm Tim :wave: 
 
-I work as an IT consultant for a [leading systems integrator](https://www.tdlogicalis.com.au) located in Melbourne, Australia :round_pushpin: :earth_asia:
+I work as an IT consultant for [Logicalis Australia](https://www.au.logicalis.com) located in Melbourne, Australia :round_pushpin: :earth_asia:
 
 I :blue_heart: coding in PowerShell and am the creator of the open source project, [AsBuiltReport](https://www.AsBuiltReport.com).
 

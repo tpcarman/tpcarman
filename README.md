@@ -19,7 +19,7 @@ I work as an IT consultant for [Logicalis Australia](https://www.au.logicalis.co
 
 I :blue_heart: coding in PowerShell and am the creator of the open source project, [AsBuiltReport](https://www.AsBuiltReport.com).
 
-I am a 3x [VMware vExpert](https://vexpert.vmware.com/directory/2804) :trophy: and active member within the vCommunity. 
+I am a 4x [VMware vExpert](https://vexpert.vmware.com/directory/2804) :trophy: and active member within the vCommunity. 
 
 <!-- I also write the occassional [blog post](https://www.timcarman.net) :pencil2: :globe_with_meridians: -->
 
